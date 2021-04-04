@@ -1,5 +1,14 @@
-# Solution to query metadata of an instance within Azure
+# Solution to Challege#2, query metadata of an instance within Azure
 
+if (Get-InstalledModule -Name "Az")
+    {
+        Write-Host "Az Module exists, You can authenticate to azure"    
+    }
+else 
+    {
+        Write-Host "Az Module does not exist, Installing Az module"
+        Install-Module -Name Az -AllowClobber -SkipPublisherCheck
+    }
 # Authenticate to Azure
 Connect-AzAccount
 
