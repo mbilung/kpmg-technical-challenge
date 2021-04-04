@@ -28,7 +28,7 @@ function GetMetadata {
     pause
 }
 
-if (Get-InstalledModule -Name Azi)
+if (Get-InstalledModule -Name Az)
     {
         Write-Host "Az Module exists, You can authenticate to azure"
         GetMetadata        
