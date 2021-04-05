@@ -2,7 +2,7 @@ This script should be run on elavated mode. It shows the meta data of the azure 
 
 Pre-requisite: Az module should be installed
 
-ouput:
+ouput in Json format:
 
 {
     "ResourceId":  "/subscriptions/aed184b9-8011-4de2-9c0b-xxxxxxxxxxxx/resourceGroups/NetworkWatcherRG/providers/Microsoft.Compute/virtualMachines/kpmg-nonprod",
