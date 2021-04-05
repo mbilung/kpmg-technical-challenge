@@ -1,4 +1,4 @@
-Creates 2 WebApps
+Creates 2 WebApps in the existing resource group referenced through data block
 
 Deploy a VNet
 
