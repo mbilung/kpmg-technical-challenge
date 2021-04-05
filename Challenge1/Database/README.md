@@ -1,0 +1,1 @@
+Creates a SQL Server and a database on the existing resource group referenced through data block.
