@@ -1,35 +1,35 @@
-This script should be run on elavated mode. It shows the meta data of the azure resource as entered by the user.
+This script should be run on elavated mode. It shows the meta data of the azure resource as entered by the user.<br />
 
-Pre-requisite: Az module should be installed
+Pre-requisite: Az module should be installed<br />
 
-ouput in Json format:
+ouput in Json format:<br />
 
-{
-    "ResourceId":  "/subscriptions/aed184b9-8011-4de2-9c0b-xxxxxxxxxxxx/resourceGroups/NetworkWatcherRG/providers/Microsoft.Compute/virtualMachines/kpmg-nonprod",
-    "Id":  "/subscriptions/aed184b9-8011-4de2-9c0b-xxxxxxxxxxxx/resourceGroups/NetworkWatcherRG/providers/Microsoft.Compute/virtualMachines/kpmg-nonprod",
-    "Identity":  null,
-    "Kind":  null,
-    "Location":  "centralus",
-    "ManagedBy":  null,
-    "ResourceName":  "kpmg-nonprod",
-    "Name":  "kpmg-nonprod",
-    "ExtensionResourceName":  null,
-    "ParentResource":  null,
-    "Plan":  null,
-    "Properties":  null,
-    "ResourceGroupName":  "NetworkWatcherRG",
-    "Type":  "Microsoft.Compute/virtualMachines",
-    "ResourceType":  "Microsoft.Compute/virtualMachines",
-    "ExtensionResourceType":  null,
-    "Sku":  null,
-    "Tags":  null,
-    "TagsTable":  null,
-    "SubscriptionId":  null,
-    "CreatedTime":  null,
-    "ChangedTime":  null,
-    "ETag":  null
-}
+{<br />
+    "ResourceId":  "/subscriptions/aed184b9-8011-4de2-9c0b-xxxxxxxxxxxx/resourceGroups/NetworkWatcherRG/providers/Microsoft.Compute/virtualMachines/kpmg-nonprod",<br />
+    "Id":  "/subscriptions/aed184b9-8011-4de2-9c0b-xxxxxxxxxxxx/resourceGroups/NetworkWatcherRG/providers/Microsoft.Compute/virtualMachines/kpmg-nonprod",<br />
+    "Identity":  null,<br />
+    "Kind":  null,<br />
+    "Location":  "centralus",<br />
+    "ManagedBy":  null,<br />
+    "ResourceName":  "kpmg-nonprod",<br />
+    "Name":  "kpmg-nonprod",<br />
+    "ExtensionResourceName":  null,<br />
+    "ParentResource":  null,<br />
+    "Plan":  null,<br />
+    "Properties":  null,<br />
+    "ResourceGroupName":  "NetworkWatcherRG",<br />
+    "Type":  "Microsoft.Compute/virtualMachines",<br />
+    "ResourceType":  "Microsoft.Compute/virtualMachines",<br />
+    "ExtensionResourceType":  null,<br />
+    "Sku":  null,<br />
+    "Tags":  null,<br />
+    "TagsTable":  null,<br />
+    "SubscriptionId":  null,<br />
+    "CreatedTime":  null,<br />
+    "ChangedTime":  null,<br />
+    "ETag":  null<br />
+}<br />
 
-Press Enter to continue...:
+Press Enter to continue...:<br />
 
 
